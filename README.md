@@ -4,4 +4,4 @@
 - [tonsky.me](https://tonsky.me)
 - [sarahmhigley.com](https://sarahmhigley.com)
 - [bholmes.dev](https://bholmes.dev/blog)
-
+- [tomhazledine.com](https://tomhazledine.com/archive/)
