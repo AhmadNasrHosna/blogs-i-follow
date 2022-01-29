@@ -7,5 +7,6 @@
 - [tomhazledine.com](https://tomhazledine.com/archive/)
 - [thinkdobecreate.com](https://thinkdobecreate.com)
 - [daily-dev-tips.com](https://daily-dev-tips.com)
+- [lamplightdev.com](https://lamplightdev.com/blog/)
 
 
