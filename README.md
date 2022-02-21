@@ -9,5 +9,6 @@
 - [daily-dev-tips.com](https://daily-dev-tips.com)
 - [lamplightdev.com](https://lamplightdev.com/blog/)
 - [aonemd.me](https://aonemd.me/)
+- [https://johno.com/writing](johno.com)
 
 
