@@ -10,5 +10,6 @@
 - [lamplightdev.com](https://lamplightdev.com/blog/)
 - [aonemd.me](https://aonemd.me/)
 - [johno.com](https://johno.com/writing)
+- [bobbyhadz.com](https://bobbyhadz.com/)
 
 
