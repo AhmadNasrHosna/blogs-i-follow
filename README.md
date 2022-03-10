@@ -11,5 +11,6 @@
 - [aonemd.me](https://aonemd.me/)
 - [johno.com](https://johno.com/writing)
 - [bobbyhadz.com](https://bobbyhadz.com/)
+- [eric.blog](https://eric.blog/)
 
 
