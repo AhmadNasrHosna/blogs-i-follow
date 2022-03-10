@@ -12,5 +12,6 @@
 - [johno.com](https://johno.com/writing)
 - [bobbyhadz.com](https://bobbyhadz.com/)
 - [eric.blog](https://eric.blog/)
+- [fossheim.io](https://fossheim.io/writing/archive/)
 
 
