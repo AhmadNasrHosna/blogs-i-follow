@@ -14,5 +14,6 @@
 - [eric.blog](https://eric.blog/)
 - [fossheim.io](https://fossheim.io/writing/archive/)
 - [blog.jim-nielsen.com](https://blog.jim-nielsen.com/)
+- [stefanjudis.com](https://www.stefanjudis.com)
 
 
