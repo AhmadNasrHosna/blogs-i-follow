@@ -12,8 +12,9 @@
 - [johno.com](https://johno.com/writing)
 - [bobbyhadz.com](https://bobbyhadz.com/)
 - [eric.blog](https://eric.blog/)
-- [fossheim.io](https://fossheim.io/writing/archive/)
-- [blog.jim-nielsen.com](https://blog.jim-nielsen.com/)
+- [fossheim.io](https://fossheim.io/writing/archive)
+- [blog.jim-nielsen.com](https://blog.jim-nielsen.com)
 - [stefanjudis.com](https://www.stefanjudis.com)
+- [dmitripavlutin.com](https://dmitripavlutin.com)
 
 
